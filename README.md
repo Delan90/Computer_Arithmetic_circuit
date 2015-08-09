@@ -16,7 +16,7 @@ Get start the ISE:
 
     `library IEEE;`
     `use IEEE.STD_LOGIC_1164.ALL;`
-   `entity FullAdder is`
+        entity FullAdder is
     ` Port ( a : in STD_LOGIC;`
     ` b : in STD_LOGIC;`
     ` c : in STD_LOGIC;`
