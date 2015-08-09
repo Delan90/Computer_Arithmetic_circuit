@@ -8,11 +8,11 @@ Several Computer Arithmetic circuits design by [VHDL](https://en.wikipedia.org/w
 
 Get start the ISE:
 
-- Create a new project for Spartan3E XC3S500E-FG320-5 as shown in Figure 1;
+- Create a new project for Spartan3E XC3S500E-FG320-5 as shown as bellow;
 
 ![MyUnicorn](https://github.com/Delan90/Computer_Arithmetic_circuit/blob/master/pic/pic1.png)
 
-- Add a new VHDL Module to the project for the full adder. The code is shown in Figure 2;
+- Add a new VHDL Module to the project for the full adder. The code is shown as bellow;
 
         library IEEE;
         use IEEE.STD_LOGIC_1164.ALL;
