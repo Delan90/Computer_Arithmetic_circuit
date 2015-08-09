@@ -14,8 +14,10 @@ Get start the ISE:
 
 - Add a new VHDL Module to the project for the full adder. The code is shown in Figure 2;
 
-    `library IEEE;`
-    `use IEEE.STD_LOGIC_1164.ALL;`
+`library IEEE;`
+
+`use IEEE.STD_LOGIC_1164.ALL;`
+
         entity FullAdder is
     ` Port ( a : in STD_LOGIC;`
     ` b : in STD_LOGIC;`
