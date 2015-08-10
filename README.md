@@ -1,6 +1,6 @@
 # Computer_Arithmetic_circuit
 
-Several Computer Arithmetic circuits design by [VHDL](https://en.wikipedia.org/wiki/VHDL) in [Xilinx ISE](https://en.wikipedia.org/wiki/Xilinx_ISE)
+Several Computer Arithmetic circuits design by [VHDL](https://en.wikipedia.org/wiki/VHDL) in [Xilinx ISE](https://en.wikipedia.org/wiki/Xilinx_ISE),this work can be seen as a simple tutorial for the VHDL.
 
 ##[Basic computer arithmetic circuit](https://github.com/Delan90/Computer_Arithmetic_circuit/tree/master/Basic_computer_arithmetic_circuit)
 
