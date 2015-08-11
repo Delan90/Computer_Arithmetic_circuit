@@ -186,3 +186,17 @@ Timing Simulation:
 
 We can see this time that we have a delay of approximatively 12 ns, which corresponds to the critical path delay. Indeed, we obtained it by modifying the value of the incoming carry (“cin”) so that we also get a carry as an output. That’s in accord with the predictions of the ISE software.
 
+
+##[Moving Average Filter](https://github.com/Delan90/Computer_Arithmetic_circuit/tree/master/Moving_Average_Filter)
+
+[Requirment](https://github.com/Delan90/Computer_Arithmetic_circuit/blob/master/Moving_Average_Filter/Document/Requirment_Tutorial.pdf) here.
+
+[Report](https://github.com/Delan90/Computer_Arithmetic_circuit/blob/master/Moving_Average_Filter/Document/Report.pdf) here.
+
+
+##[Floating Point Multiplier](https://github.com/Delan90/Computer_Arithmetic_circuit/tree/master/23x23_bits_floating_point_multiplier)
+
+[Requirment](https://github.com/Delan90/Computer_Arithmetic_circuit/blob/master/23x23_bits_floating_point_multiplier/Document/Requirment.pdf) here.
+
+[Report](https://github.com/Delan90/Computer_Arithmetic_circuit/blob/master/23x23_bits_floating_point_multiplier/Document/Report.pdf) here.
+
